@@ -14,8 +14,8 @@ on:
     types: [started]
     
 env:
-  ROM_URL: https://bigota.d.miui.com/9.10.24/miui_LAVENDER_9.10.24_233cde0d2e_9.0.zip
-  ROM_NAME: MIUI
+  ROM_URL: https://fsopen.coloros.com/3/oppowww/androidrom/r11/R11_11_OTA_0530_all_jfW5v0iZuYpa.ozip
+  ROM_NAME: ColorOS
   TZ: Asia/Shanghai
 
 jobs:
